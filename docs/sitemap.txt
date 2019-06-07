@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+	<loc>https://elbrusboot.camp/</loc>
+	<lastmod>2019-05-17T15:21:53+01:00</lastmod>
+	<priority>1.00</priority>
+	<changefreq>daily</changefreq>
+</url>
+<url>
+	<loc>https://elbrusboot.camp/program</loc>
+	<lastmod>2019-05-17T15:21:54+01:00</lastmod>
+	<priority>0.90</priority>
+	<changefreq>daily</changefreq>
+</url>
+<url>
+	<loc>https://elbrusboot.camp/about</loc>
+	<lastmod>2019-05-17T15:21:55+01:00</lastmod>
+	<priority>0.80</priority>	
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>https://elbrusboot.camp/contacts</loc>
+	<lastmod>2019-05-17T15:21:56+01:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>https://elbrusboot.camp/faq</loc>
+	<lastmod>2019-05-17T15:21:57+01:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>https://elbrusboot.camp/docs/agreement_elbruscodingbootcamp.pdf</loc>
+	<lastmod>2019-05-17T15:21:58+01:00</lastmod>
+	<priority>0.7</priority>
+</url>
+<url>
+	<loc>https://elbrusboot.camp/docs/confidentiality_agreements.pdf</loc>
+	<lastmod>2019-05-17T15:21:59+01:00</lastmod>
+	<priority>0.7</priority>
+</url>
+</urlset>

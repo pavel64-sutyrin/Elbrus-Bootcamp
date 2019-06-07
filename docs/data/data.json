@@ -1,0 +1,307 @@
+{
+  "menu": [
+    {
+      "url": "/about/",
+      "title": "О школе"
+    },
+    {
+      "url": "/contacts/",
+      "title": "Контакты"
+    },
+    {
+      "url": "/program/",
+      "title": "Программа"
+    },
+    {
+      "url": "/faq/",
+      "title": "FAQ"
+    }
+  ],
+  "social": [
+    {
+      "type": "fb",
+      "alt": "Facebook",
+      "link": "https://www.facebook.com/elbrusbootcamp"
+    },
+    {
+      "type": "vk",
+      "alt": "Вконтакте",
+      "link": "https://vk.com/elbrusbootcamp"
+    },
+    {
+      "type": "ig",
+      "alt": "Instagram",
+      "link": "https://www.instagram.com/elbrus.bootcamp/"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Даниил Хизов",
+      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/avatars/avatar-d.jpg",
+      "profiles": [
+        {
+          "type": "github",
+          "link": "https://github.com/DanKhizov"
+        },
+        {
+          "type": "moikrug",
+          "link": "https://moikrug.ru/daniil-khizov"
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=UfEbzONubAU",
+      "text": "JavaScript forever! Всем кто хочет прокачаться рекомендую этот курс."
+    },
+    {
+      "name": "Владимир Хван",
+      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/avatars/avatar-v.jpeg",
+      "profiles": [
+        {
+          "type": "github",
+          "link": "https://github.com/beshunmo"
+        },
+        {
+          "type": "moikrug",
+          "link": "https://moikrug.ru/beshunmo"
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=Bpn9KJVbT3c",
+      "text": "Четкая структура курса, преподаватели из it компаний, обучение очень насыщенное и все заточено под получение знаний и навыков для выполнения реальных задач и устройство на работу."
+    },
+    {
+      "name": "Любовь Миронова",
+      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/avatars/avatar-l.jpg",
+      "profiles": [
+        {
+          "type": "github",
+          "link": "https://github.com/LiubovMironova"
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=l_ZEgW1s0oY",
+      "text": "Уникальная школа для тех, кто хочет научиться программировать и сделать это своей профессией."
+    }
+  ],
+  "team": [
+    {
+      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/team/george.jpg",
+      "title": "CEO",
+      "name": "Георгий Бабаян",
+      "contacts": [
+        {
+          "type": "telegram",
+          "value": "@ilona"
+        },
+        {
+          "type": "vkontakte",
+          "value": "@ilona"
+        },
+        {
+          "type": "moikrug",
+          "value": "https://moikrug.ru/georgebabayan"
+        }
+      ]
+    },
+    {
+      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/team/daniil.jpg",
+      "title": "Преподаватель",
+      "name": "Даниил Капустин",
+      "contacts": [
+        {
+          "type": "moikrug",
+          "value": "https://moikrug.ru/kayday"
+        }
+      ]
+    },
+    {
+      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/team/ilona.jpg",
+      "title": "BDM",
+      "name": "Илона Гольман",
+      "contacts": [
+        {
+          "type": "telegram",
+          "value": "@ilona"
+        },
+        {
+          "type": "vkontakte",
+          "value": "@ilona"
+        }
+      ]
+    },
+    {
+      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/team/sharif.png",
+      "title": "Методист",
+      "name": "Sherif Abushadi",
+      "contacts": [
+        {
+          "type": "link",
+          "value": "https://www.sherifabushadi.com/#home"
+        }
+      ]
+    },
+    {
+      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/team/Sergei.jpg",
+      "title": "Преподаватель",
+      "name": "Сергей Купцов",
+      "contacts": [
+        {
+          "type": "medium",
+          "value": "https://medium.com/@sergeykuptsov"
+        }
+      ]
+    },
+    {
+      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/team/Michael.jpg",
+      "title": "Технический директор",
+      "name": "Майкл Клишевич",
+      "contacts": [
+        {
+          "type": "moikrug",
+          "value": "https://moikrug.ru/m-klishevich"
+        }
+      ]
+    },
+    {
+      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/team/ann.jpeg",
+      "title": "Помощник преподавателя",
+      "name": "Анна Гладких",
+      "contacts": [
+        {
+          "type": "github",
+          "value": "https://github.com/GlaticuS"
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/campus/1.JPG",
+    "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/campus/2.JPG",
+    "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/campus/3.jpg"
+  ],
+  "tools": [
+    {
+      "name": "PostgressSQL",
+      "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/tools-svg/1.svg"
+    },
+    {
+      "name": "PostgressSQL",
+      "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/tools-svg/2.svg"
+    },
+    {
+      "name": "PostgressSQL",
+      "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/tools-svg/3.svg"
+    },
+    {
+      "name": "PostgressSQL",
+      "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/tools-svg/4.svg"
+    },
+    {
+      "name": "PostgressSQL",
+      "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/tools-svg/5.svg"
+    },
+    {
+      "name": "PostgressSQL",
+      "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/tools-svg/6.svg"
+    },
+    {
+      "name": "PostgressSQL",
+      "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/tools-svg/7.png"
+    },
+    {
+      "name": "PostgressSQL",
+      "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/tools-svg/8.svg"
+    },
+    {
+      "name": "PostgressSQL",
+      "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/tools-svg/git3.svg"
+    }
+  ],
+  "partners": [
+    {
+      "name": "Доктор на работе",
+      "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/partners/1.png"
+    },
+    {
+      "name": "Альфа банк",
+      "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/partners/2.png"
+    },
+    {
+      "name": "Chatfuel",
+      "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/partners/3.png"
+    },
+    {
+      "name": "Wallarm",
+      "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/partners/4.png"
+    },
+    {
+      "name": "DeckRobot",
+      "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/partners/5.png"
+    },
+    {
+      "name": "A",
+      "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/partners/6.png"
+    },
+    {
+      "name": "Easysize",
+      "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/partners/7.png"
+    },
+    {
+      "name": "Чердак",
+      "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/partners/8.png"
+    },
+    {
+      "name": "Barcelona code school",
+      "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/partners/9.jpg"
+    }
+  ],
+  "groups": [
+    {
+      "date": "2019-06-24",
+      "full": true
+    },
+    {
+      "date": "2019-08-05",
+      "full": false
+    },
+    {
+      "date": "2019-09-09",
+      "full": false
+    }
+  ],
+  "events": [
+    {
+      "date": "2019-06-09",
+      "title": "Java Script для начинающих",
+      "link": "https://elbrus-coding-bootcamp.timepad.ru/event/993144/?utm_refcode=a3adec2530041cf2575c7c83af6188f7cd083a81"
+    },
+    {
+      "date": "2019-06-11",
+      "title": "День открытых дверей",
+      "link": "https://elbrus-coding-bootcamp.timepad.ru/event/994078/?utm_refcode=4b09e6a706cdd5afdba5d6dbf5f5bee3b10f27d3"
+    },
+    {
+      "date": "2019-06-21",
+      "title": "Demo Day",
+      "link": "https://elbrus-coding-bootcamp.timepad.ru/event/980724/?utm_refcode=d7115c0a51cdc6042b2413e4c9a7f7cf72ad80cf"
+    },
+    {
+      "date": "2019-09-14",
+      "title": "Java Script для начинающих",
+      "link": "https://elbrus-coding-bootcamp.timepad.ru/event/988414/?utm_refcode=3572df8dc42bc067e58ff70be5d23a55e27a96e7"
+    },
+    {
+      "date": "2019-09-15",
+      "title": "Java Script для начинающих",
+      "link": "https://elbrus-coding-bootcamp.timepad.ru/event/988414/?utm_refcode=3572df8dc42bc067e58ff70be5d23a55e27a96e7"
+    }
+  ],
+  "contacts": {
+    "phone": "+7 495 186-6261",
+    "address": "Москва, м.Парк Культуры ул. Бурденко 14 А",
+    "address-full": "г. Москва, ул. Бурденко 14 А, 7 этаж, вход со двора (м. Парк Культуры)",
+    "mail": "join@elbrusboot.camp"
+  },
+  "links": {
+    "policy": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/confidentiality_agreements.pdf",
+    "offer": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/agreement_elbruscodingbootcamp.pdf"
+  },
+  "copyright": "© Elbrus Coding Bootcamp. 2019 All rights reserved."
+}

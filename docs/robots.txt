@@ -1,0 +1,4 @@
+User-agent: *
+
+Sitemap: https://elbrusboot.camp/sitemap.xml
+Host: https://elbrusboot.camp
