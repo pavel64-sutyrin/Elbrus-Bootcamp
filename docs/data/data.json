@@ -88,11 +88,11 @@
       "contacts": [
         {
           "type": "telegram",
-          "value": "@ilona"
+          "value": "t.me/georgeba"
         },
         {
           "type": "vkontakte",
-          "value": "@ilona"
+          "value": "https://vk.com/ask.johndoe"
         },
         {
           "type": "moikrug",
