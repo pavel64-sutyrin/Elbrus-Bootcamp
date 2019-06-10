@@ -267,11 +267,7 @@
     }
   ],
   "events": [
-    {
-      "date": "2019-06-09",
-      "title": "Java Script для начинающих",
-      "link": "https://elbrus-coding-bootcamp.timepad.ru/event/993144/?utm_refcode=a3adec2530041cf2575c7c83af6188f7cd083a81"
-    },
+   
     {
       "date": "2019-06-11",
       "title": "День открытых дверей",
@@ -282,15 +278,10 @@
       "title": "Demo Day",
       "link": "https://elbrus-coding-bootcamp.timepad.ru/event/980724/?utm_refcode=d7115c0a51cdc6042b2413e4c9a7f7cf72ad80cf"
     },
-    {
-      "date": "2019-09-14",
+     {
+      "date": "2019-06-09",
       "title": "Java Script для начинающих",
-      "link": "https://elbrus-coding-bootcamp.timepad.ru/event/988414/?utm_refcode=3572df8dc42bc067e58ff70be5d23a55e27a96e7"
-    },
-    {
-      "date": "2019-09-15",
-      "title": "Java Script для начинающих",
-      "link": "https://elbrus-coding-bootcamp.timepad.ru/event/988414/?utm_refcode=3572df8dc42bc067e58ff70be5d23a55e27a96e7"
+      "link": "https://elbrus-coding-bootcamp.timepad.ru/event/997507/?utm_refcode=16ec22f804c43d96f32537e1e804d3d0e1444ad3"
     }
   ],
   "contacts": {
