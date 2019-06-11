@@ -253,7 +253,6 @@
     }
   ],
   "groups": [
- 
     {
       "date": "2019-08-05",
       "full": true
@@ -268,7 +267,6 @@
     }
   ],
   "events": [
-   
     {
       "date": "2019-06-21",
       "title": "Demo Day",
@@ -283,7 +281,7 @@
       "date": "2019-06-18",
       "title": "День открытых дверей",
       "link": "https://elbrus-coding-bootcamp.timepad.ru/event/998664/?utm_refcode=7dc924b6f6dbe3efbf8306dc7fdf1add8a3fb54f"
-    },
+    }
   ],
   "contacts": {
     "phone": "+7 495 786-0581",
