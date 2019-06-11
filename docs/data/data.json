@@ -5,16 +5,16 @@
       "title": "О школе"
     },
     {
-      "url": "/contacts/",
-      "title": "Контакты"
-    },
-    {
       "url": "/program/",
       "title": "Программа"
     },
     {
       "url": "/faq/",
       "title": "FAQ"
+    },
+    {
+      "url": "/contacts/",
+      "title": "Контакты"
     }
   ],
   "social": [
@@ -267,11 +267,7 @@
     }
   ],
   "events": [
-    {
-      "date": "2019-06-21",
-      "title": "Demo Day",
-      "link": "https://elbrus-coding-bootcamp.timepad.ru/event/980724/?utm_refcode=d7115c0a51cdc6042b2413e4c9a7f7cf72ad80cf"
-    },
+    
      {
       "date": "2019-06-09",
       "title": "Java Script для начинающих",
@@ -281,6 +277,11 @@
       "date": "2019-06-18",
       "title": "День открытых дверей",
       "link": "https://elbrus-coding-bootcamp.timepad.ru/event/998664/?utm_refcode=7dc924b6f6dbe3efbf8306dc7fdf1add8a3fb54f"
+    },
+    {
+      "date": "2019-06-21",
+      "title": "Demo Day",
+      "link": "https://elbrus-coding-bootcamp.timepad.ru/event/980724/?utm_refcode=d7115c0a51cdc6042b2413e4c9a7f7cf72ad80cf"
     }
   ],
   "contacts": {
