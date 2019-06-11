@@ -253,26 +253,22 @@
     }
   ],
   "groups": [
+ 
     {
-      "date": "2019-06-24",
+      "date": "2019-08-05",
       "full": true
     },
     {
-      "date": "2019-08-05",
+      "date": "2019-09-09",
       "full": false
     },
     {
-      "date": "2019-09-09",
+      "date": "2019-10-21",
       "full": false
     }
   ],
   "events": [
    
-    {
-      "date": "2019-06-11",
-      "title": "День открытых дверей",
-      "link": "https://elbrus-coding-bootcamp.timepad.ru/event/994078/?utm_refcode=4b09e6a706cdd5afdba5d6dbf5f5bee3b10f27d3"
-    },
     {
       "date": "2019-06-21",
       "title": "Demo Day",
@@ -282,7 +278,12 @@
       "date": "2019-06-09",
       "title": "Java Script для начинающих",
       "link": "https://elbrus-coding-bootcamp.timepad.ru/event/997507/?utm_refcode=16ec22f804c43d96f32537e1e804d3d0e1444ad3"
-    }
+    },
+    {
+      "date": "2019-06-18",
+      "title": "День открытых дверей",
+      "link": "https://elbrus-coding-bootcamp.timepad.ru/event/998664/?utm_refcode=7dc924b6f6dbe3efbf8306dc7fdf1add8a3fb54f"
+    },
   ],
   "contacts": {
     "phone": "+7 495 786-0581",
