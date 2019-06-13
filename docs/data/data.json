@@ -267,7 +267,6 @@
     }
   ],
   "events": [
-    
      {
       "date": "2019-06-09",
       "title": "Java Script для начинающих",
@@ -293,6 +292,11 @@
   "links": {
     "policy": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/confidentiality_agreements.pdf",
     "offer": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/agreement_elbruscodingbootcamp.pdf"
+  },
+  "price": {
+    "before": "158 000₽",
+    "after": "168 000₽",
+    "date": "2019-06-21"
   },
   "copyright": "© Elbrus Coding Bootcamp. 2019 All rights reserved."
 }
