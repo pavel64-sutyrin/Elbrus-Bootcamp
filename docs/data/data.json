@@ -118,11 +118,11 @@
       "contacts": [
         {
           "type": "telegram",
-          "value": "@ilona"
+          "value": "https://t.me/ilona_golman"
         },
         {
-          "type": "vkontakte",
-          "value": "@ilona"
+          "type": "link",
+          "value": "mailto:ig@elbrusboot.camp"
         }
       ]
     },
