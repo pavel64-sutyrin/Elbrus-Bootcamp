@@ -37,6 +37,7 @@
   "testimonials": [
     {
       "name": "Даниил Хизов",
+      "title": "Разработчик",
       "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/avatars/avatar-d.jpg",
       "profiles": [
         {
@@ -53,6 +54,7 @@
     },
     {
       "name": "Владимир Хван",
+      "title": "Разработчик",
       "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/avatars/avatar-v.jpeg",
       "profiles": [
         {
@@ -69,6 +71,7 @@
     },
     {
       "name": "Любовь Миронова",
+      "title": "Фрилансер",
       "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/avatars/avatar-l.jpg",
       "profiles": [
         {
