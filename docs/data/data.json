@@ -257,29 +257,20 @@
   ],
   "groups": [
     {
-      "date": "2019-08-05",
+      "date": "2019-07-29",
       "full": true
     },
     {
-      "date": "2019-09-09",
+      "date": "2019-09-02",
       "full": false
     },
     {
-      "date": "2019-10-21",
+      "date": "2019-10-14",
       "full": false
     }
   ],
   "events": [
-    {
-      "date": "2019-06-21",
-      "title": "Demo Day",
-      "link": "https://elbrus-coding-bootcamp.timepad.ru/event/980724/?utm_refcode=d7115c0a51cdc6042b2413e4c9a7f7cf72ad80cf"
-    },
-    {
-      "date": "2019-06-23",
-      "title": "JavaScript для начинающих!",
-      "link": "https://elbrus-coding-bootcamp.timepad.ru/event/1001238/?utm_refcode=537fb28d35fbdd5c0db8187d5671967f5fce859b"
-    },
+  
     {
       "date": "2019-06-25",
       "title": "День открытых дверей",
@@ -307,9 +298,9 @@
     "offer": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/agreement_elbruscodingbootcamp.pdf"
   },
   "price": {
-    "before": "158 000₽",
-    "after": "168 000₽",
-    "date": "2019-06-17"
+    "before": "168 000₽",
+    "after": "178 000₽",
+    "date": "2019-07-21"
   },
   "copyright": "© Elbrus Coding Bootcamp. 2019 All rights reserved."
 }
