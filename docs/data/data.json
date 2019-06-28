@@ -209,7 +209,7 @@
       "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/tools-svg/7.png"
     },
     {
-      "name": "PostgressSQL",
+      "name": "Heroku",
       "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/tools-svg/8.svg"
     },
     {
@@ -252,10 +252,7 @@
       "link": "https://rb.ru/opinion/bootcamp-v-rf/",
       "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/mm/rubase.svg"
     },
-    {
-      "link": "https://vc.ru/hr/68796-kak-my-zapustili-pervuyu-v-rossii-butkemp-shkolu-programmirovaniya",
-      "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/mm/vc.svg"
-    },
+
 	{
       "link": "https://tproger.ru/events/elbrus-coding-bootcamp/",
       "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/mm/tproger.svg"
