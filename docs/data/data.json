@@ -181,31 +181,31 @@
   ],
   "tools": [
     {
-      "name": "PostgressSQL",
+      "name": "express",
       "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/tools-svg/1.svg"
     },
     {
-      "name": "PostgressSQL",
+      "name": "NodeJS",
       "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/tools-svg/2.svg"
     },
     {
-      "name": "PostgressSQL",
+      "name": "MongoDB",
       "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/tools-svg/3.svg"
     },
     {
-      "name": "PostgressSQL",
+      "name": "Firebase",
       "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/tools-svg/4.svg"
     },
     {
-      "name": "PostgressSQL",
+      "name": "React",
       "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/tools-svg/5.svg"
     },
     {
-      "name": "PostgressSQL",
+      "name": "Git",
       "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/tools-svg/6.svg"
     },
     {
-      "name": "PostgressSQL",
+      "name": "Redux",
       "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/tools-svg/7.png"
     },
     {
@@ -213,13 +213,13 @@
       "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/tools-svg/8.svg"
     },
     {
-      "name": "PostgressSQL",
+      "name": "GitHub",
       "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/tools-svg/git3.svg"
     }
   ],
   "partners": [
     {
-      "name": "Доктор на работе",
+      "name": "ВТБ",
       "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/partners/1.png"
     },
     {
@@ -227,7 +227,7 @@
       "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/partners/2.png"
     },
     {
-      "name": "Chatfuel",
+      "name": "Ozon",
       "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/partners/3.png"
     },
     {
@@ -235,24 +235,16 @@
       "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/partners/4.png"
     },
     {
-      "name": "DeckRobot",
+      "name": "Wildberries",
       "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/partners/5.png"
     },
     {
-      "name": "A",
+      "name": "Algoritmika",
       "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/partners/6.png"
-    },
-    {
-      "name": "Easysize",
-      "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/partners/7.png"
     },
     {
       "name": "Чердак",
       "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/partners/8.png"
-    },
-    {
-      "name": "Barcelona code school",
-      "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/partners/9.jpg"
     }
   ],
   "massMedia": [
@@ -289,11 +281,6 @@
   ],
   "events": [
   
-    {
-      "date": "2019-06-25",
-      "title": "День открытых дверей",
-      "link": "https://elbrus-coding-bootcamp.timepad.ru/event/1001239/?utm_refcode=091e0d1e4e049c1b109d081d033c83664171b5b3"
-    },
      {
       "date": "2019-06-30",
       "title": "JavaScript для начинающих!",
