@@ -8,7 +8,9 @@ install:
 after_success:
   - git clone https://${GITHUB_TOKEN}@github.com/${GITHUB_OWNER}/${GITHUB_REPO}.git site
   - cp -R ./docs/data ./site/data/
+  - ls -la
   - cd site
+  - ls -la
   - git checkout ${GITHUB_BRANCH}
   - npm install
   - gatsby build
