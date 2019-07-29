@@ -12,6 +12,7 @@ after_success:
   - cd site
   - ls -la
   - git checkout ${GITHUB_BRANCH}
+  - ls -la
   - npm install
   - gatsby build
   - cd ..
