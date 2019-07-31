@@ -85,8 +85,7 @@
         }
       ],
       "video": "https://www.youtube.com/watch?v=MpxEIeovoFo",
-      "text": "Здорово, что здесь преподаватели с большим стажем, при этом они все молодые - то есть мы говорим на одном языке. Всему, что я знаю в программировании, я научился в Elbrus с нуля. 
-      Тем, кто собирается поступать, советую полностью погрузиться в это, высыпаться и идти до конца :)"
+      "text": ""
     },
     {
       "name": "Даниил Хизов",
@@ -127,7 +126,7 @@
     //   "name": "Михаил Левин",
     //   "title": "Разработчик в LAtoken",
     //   "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/avatars/avatar-misha.jpg",
-    //   "profiles": [
+    //   "profiles": [  
     //     {
     //       "type": "github",
     //       "link": "https://github.com/le0n229"
