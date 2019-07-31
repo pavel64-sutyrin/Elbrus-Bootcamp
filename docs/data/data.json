@@ -85,7 +85,7 @@
         }
       ],
       "video": "https://www.youtube.com/watch?v=MpxEIeovoFo",
-      "text": ""
+      "text": "asd "
     },
     {
       "name": "Даниил Хизов",
@@ -121,20 +121,20 @@
       "video": "https://www.youtube.com/watch?v=vtQdzDZlUXg",
       "text": "Четкая структура курса, преподаватели из it компаний, обучение очень насыщенное и все заточено под получение знаний и навыков для выполнения реальных задач и устройство на работу."
     }
-    // ,
-    // {
-    //   "name": "Михаил Левин",
-    //   "title": "Разработчик в LAtoken",
-    //   "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/avatars/avatar-misha.jpg",
-    //   "profiles": [  
-    //     {
-    //       "type": "github",
-    //       "link": "https://github.com/le0n229"
-    //     }
-    //   ],
-    //   "video": "https://www.youtube.com/watch?v=vtQdzDZlUXg",
-    //   "text": "Я искал обучение, где меня нагрузили бы на все 200%, и Elbrus - это единственное, что я смог найти. Обстановка в школе погружает тебя с головой в мир разработки. Здесь я освоил JS с нуля, научился работать с NodeJS, Express, React, Redux и другими технологиями. Но самое ценное - навыки работы в команде."
-    // }
+    ,
+    {
+      "name": "Михаил Левин",
+      "title": "Разработчик в LAtoken",
+      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/avatars/avatar-misha.jpg",
+      "profiles": [  
+        {
+          "type": "github",
+          "link": "https://github.com/le0n229"
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=vtQdzDZlUXg",
+      "text": "Я искал обучение, где меня нагрузили бы на все 200%, и Elbrus - это единственное, что я смог найти. Обстановка в школе погружает тебя с головой в мир разработки. Здесь я освоил JS с нуля, научился работать с NodeJS, Express, React, Redux и другими технологиями. Но самое ценное - навыки работы в команде."
+    }
   ],
   "team": [
     {
@@ -292,12 +292,8 @@
       "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/partners/5.png"
     },
     {
-      "name": "Algoritmika",
+      "name": "Финам",
       "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/partners/6.png"
-    },
-    {
-      "name": "Чердак",
-      "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/partners/8.png"
     }
   ],
   "massMedia": [
@@ -368,3 +364,7 @@
   },
   "copyright": "© Elbrus Coding Bootcamp. 2019 All rights reserved."
 }
+
+
+
+
