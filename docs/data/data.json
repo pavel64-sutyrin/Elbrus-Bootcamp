@@ -35,6 +35,58 @@
     }
   ],
   "testimonials": [
+    
+    {
+      "name": "Алимова Катрин",
+      "title": "Разработчик в ВТБ",
+      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/avatars/avatar-katrin.jpg",
+      "profiles": [
+        {
+          "type": "github",
+          "link": "https://github.com/AlimovaKatrin"
+        },
+        {
+          "type": "moikrug",
+          "link": "https://moikrug.ru/alimovakatrin"
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=eA-gyPFypBQ",
+      "text": "Уникальная школа для тех, кто хочет научиться программировать и сделать это своей профессией."
+    },
+    {
+      "name": "Дмитрий Ким",
+      "title": "Разработчик в KarmaApp",
+      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/avatars/avatar-dima.jpg",
+      "profiles": [
+        {
+          "type": "github",
+          "link": "https://github.com/Dmitrykim94"
+        },
+        {
+          "type": "moikrug",
+          "link": "https://moikrug.ru/dmitrykim-l"
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=QYfssiTu38Q",
+      "text": ""
+    },
+    {
+      "name": "Генадий Хотовицкий",
+      "title": "Разработчик в VRTech",
+      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/avatars/avatar-gena.jpg",
+      "profiles": [
+        {
+          "type": "github",
+          "link": "https://github.com/Gennadiixd"
+        },
+        {
+          "type": "moikrug",
+          "link": "https://moikrug.ru/gennadiixd"
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=MpxEIeovoFo",
+      "text": ""
+    },
     {
       "name": "Даниил Хизов",
       "title": "Разработчик в Альфа-Банк",
@@ -66,42 +118,8 @@
           "link": "https://moikrug.ru/beshunmo"
         }
       ],
-      "video": "https://www.youtube.com/watch?v=Bpn9KJVbT3c",
+      "video": "https://www.youtube.com/watch?v=vtQdzDZlUXg",
       "text": "Четкая структура курса, преподаватели из it компаний, обучение очень насыщенное и все заточено под получение знаний и навыков для выполнения реальных задач и устройство на работу."
-    },
-    {
-      "name": "Алимова Катрин",
-      "title": "Разработчик в ВТБ",
-      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/avatars/avatar-katrin.jpg",
-      "profiles": [
-        {
-          "type": "github",
-          "link": "https://github.com/AlimovaKatrin"
-        },
-        {
-          "type": "moikrug",
-          "link": "https://moikrug.ru/alimovakatrin"
-        }
-      ],
-      "video": "https://www.youtube.com/watch?v=eA-gyPFypBQ",
-      "text": "Уникальная школа для тех, кто хочет научиться программировать и сделать это своей профессией."
-    },
-    {
-      "name": "Дмитрий Ким",
-      "title": "Разработчик в KarmaApp",
-      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/avatars/avatar-dima.jpg",
-      "profiles": [
-        {
-          "type": "github",
-          "link": "https://github.com/AlimovaKatrin"
-        },
-        {
-          "type": "moikrug",
-          "link": "https://moikrug.ru/dmitrykim-l"
-        }
-      ],
-      "video": "https://www.youtube.com/watch?v=QYfssiTu38Q",
-      "text": ""
     }
   ],
   "team": [
