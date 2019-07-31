@@ -55,7 +55,7 @@
     {
       "name": "Владимир Хван",
       "title": "Разработчик в ВТБ",
-      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/avatars/avatar-vova.jpeg",
+      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/avatars/avatar-vova.jpg",
       "profiles": [
         {
           "type": "github",
@@ -89,7 +89,7 @@
     {
       "name": "Дмитрий Ким",
       "title": "Разработчик в KarmaApp",
-      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/avatars/avatar-katrin.jpeg",
+      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/avatars/avatar-dima.jpg",
       "profiles": [
         {
           "type": "github",
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/team/ann.jpeg",
+      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/team/ann.jpg",
       "title": "Помощник преподавателя",
       "name": "Анна Гладких",
       "contacts": [
