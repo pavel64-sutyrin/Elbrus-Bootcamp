@@ -38,7 +38,7 @@
     {
       "name": "Даниил Хизов",
       "title": "Разработчик в Альфа-Банк",
-      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/avatars/avatar-d.jpg",
+      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/avatars/avatar-danya.jpg",
       "profiles": [
         {
           "type": "github",
@@ -55,7 +55,7 @@
     {
       "name": "Владимир Хван",
       "title": "Разработчик в ВТБ",
-      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/avatars/avatar-v.jpeg",
+      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/avatars/avatar-vova.jpeg",
       "profiles": [
         {
           "type": "github",
@@ -70,16 +70,20 @@
       "text": "Четкая структура курса, преподаватели из it компаний, обучение очень насыщенное и все заточено под получение знаний и навыков для выполнения реальных задач и устройство на работу."
     },
     {
-      "name": "Любовь Миронова",
-      "title": "Фрилансер",
-      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/avatars/avatar-l.jpg",
+      "name": "Алимова Катрин",
+      "title": "Разработчик в ВТБ",
+      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/avatars/avatar-katrin.jpg",
       "profiles": [
         {
           "type": "github",
-          "link": "https://github.com/LiubovMironova"
+          "link": "https://github.com/AlimovaKatrin"
+        },
+        {
+          "type": "moikrug",
+          "link": "https://moikrug.ru/alimovakatrin"
         }
       ],
-      "video": "https://www.youtube.com/watch?v=l_ZEgW1s0oY",
+      "video": "https://www.youtube.com/watch?v=eA-gyPFypBQ",
       "text": "Уникальная школа для тех, кто хочет научиться программировать и сделать это своей профессией."
     }
   ],
@@ -252,12 +256,11 @@
       "link": "https://rb.ru/opinion/bootcamp-v-rf/",
       "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/mm/rubase.svg"
     },
-
-	{
+    {
       "link": "https://tproger.ru/events/elbrus-coding-bootcamp/",
       "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/mm/tproger.svg"
     },
-	{
+    {
       "link": "https://vc.ru/hr/65253-kem-ty-hochesh-stat-kogda-ispolnitsya-30",
       "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/mm/vc.svg"
     }
@@ -277,32 +280,26 @@
     }
   ],
   "events": [
-  
-   
-    
-   
-    
     {
       "date": "2019-07-30",
       "title": "День открытых дверей",
       "link": "https://elbrus-coding-bootcamp.timepad.ru/event/1018274/?utm_refcode=c2e6a55ae266d6030d060cb2557312a8dba28d61"
     },
-	{
+    {
       "date": "2019-08-04",
       "title": "JavaScript для начинающих!",
       "link": "https://elbrus-coding-bootcamp.timepad.ru/event/1025445/?utm_refcode=c9b9e33ba924dc9a0ffb20f18ea713366bf7cd43"
-    }  ,
-	{
+    },
+    {
       "date": "2019-08-06",
       "title": "День открытых дверей",
       "link": "https://elbrus-coding-bootcamp.timepad.ru/event/1029800/?utm_refcode=49c53805afa05044457ee9ed024287ae98a49ab6"
-    }  ,
-	{
+    },
+    {
       "date": "2019-08-11",
       "title": "JavaScript для начинающих!",
       "link": "https://elbrus-coding-bootcamp.timepad.ru/event/1029803/?utm_refcode=1d63af7389571f4652b21fcade81e63981e0d8ba"
-    }  
-	  
+    }
   ],
   "contacts": {
     "phone": "+7 495 786-0581",
