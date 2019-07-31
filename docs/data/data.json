@@ -85,6 +85,23 @@
       ],
       "video": "https://www.youtube.com/watch?v=eA-gyPFypBQ",
       "text": "Уникальная школа для тех, кто хочет научиться программировать и сделать это своей профессией."
+    },
+    {
+      "name": "Дмитрий Ким",
+      "title": "Разработчик в KarmaApp",
+      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/avatars/avatar-katrin.jpeg",
+      "profiles": [
+        {
+          "type": "github",
+          "link": "https://github.com/AlimovaKatrin"
+        },
+        {
+          "type": "moikrug",
+          "link": "https://moikrug.ru/alimovakatrin"
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=eA-gyPFypBQ",
+      "text": "Уникальная школа для тех, кто хочет научиться программировать и сделать это своей профессией."
     }
   ],
   "team": [
