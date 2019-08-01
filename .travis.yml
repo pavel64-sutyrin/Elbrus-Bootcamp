@@ -2,15 +2,15 @@ language: node_js
 node_js:
   - "11"
 script:
+  - gatsby build
+install:
+  - npm install -g firebase-tools
   - git clone -b ${GITHUB_BRANCH} https://${GITHUB_TOKEN}@github.com/${GITHUB_OWNER}/${GITHUB_REPO}.git site
   - cp -R ./docs/data ./site/data/
   - ls -la
   - cd site
   - ls -la
-  - npm install
-  - gatsby build
-install:
-  - npm install -g firebase-tools
+  - npm ci
 after_success:
   - cd ..
   - cp ./docs/sitemap.xml ./site/public/sitemap.xml
