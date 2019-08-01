@@ -17,3 +17,4 @@ after_success:
   - cp ./docs/robots.txt ./site/public/robots.txt
   - cd site
   - ls -la
+  - firebase deploy --project ${FIREBASE_PROJECT} --token $FIREBASE_TOKEN
