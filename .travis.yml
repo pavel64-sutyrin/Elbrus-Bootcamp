@@ -11,6 +11,7 @@ install:
   - cd site
   - ls -la
   - npm ci
+  - node download-seo-files.js
 after_success:
   - cd ..
   - cp ./docs/sitemap.xml ./site/public/sitemap.xml
