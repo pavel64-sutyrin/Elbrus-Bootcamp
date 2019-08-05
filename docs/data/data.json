@@ -311,13 +311,10 @@
     }
   ],
   "groups": [
-    {
-      "date": "2019-08-05",
-      "full": true
-    },
+   
     {
       "date": "2019-09-02",
-      "full": false
+      "full": true
     },
     {
       "date": "2019-10-14",
