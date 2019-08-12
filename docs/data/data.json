@@ -321,30 +321,15 @@
       "full": false
     },
     {
-      "date": "2019-11-10",
+      "date": "2019-11-11",
       "full": false
     }
   ],
   "events": [
     {
-      "date": "2019-07-30",
+      "date": "2022-01-01",
       "title": "День открытых дверей",
-      "link": "https://elbrus-coding-bootcamp.timepad.ru/event/1018274/?utm_refcode=c2e6a55ae266d6030d060cb2557312a8dba28d61"
-    },
-    {
-      "date": "2019-08-04",
-      "title": "JavaScript для начинающих!",
-      "link": "https://elbrus-coding-bootcamp.timepad.ru/event/1025445/?utm_refcode=c9b9e33ba924dc9a0ffb20f18ea713366bf7cd43"
-    },
-    {
-      "date": "2019-08-06",
-      "title": "День открытых дверей",
-      "link": "https://elbrus-coding-bootcamp.timepad.ru/event/1029800/?utm_refcode=49c53805afa05044457ee9ed024287ae98a49ab6"
-    },
-    {
-      "date": "2019-08-11",
-      "title": "JavaScript для начинающих!",
-      "link": "https://elbrus-coding-bootcamp.timepad.ru/event/1029803/?utm_refcode=1d63af7389571f4652b21fcade81e63981e0d8ba"
+      "link": ""
     }
   ],
   "contacts": {
