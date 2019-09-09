@@ -134,6 +134,53 @@
       ],
       "video": "https://www.youtube.com/watch?v=vtQdzDZlUXg",
       "text": "Я искал обучение, где меня нагрузили бы на все 200%, и Elbrus - это единственное, что я смог найти. Обстановка в школе погружает тебя с головой в мир разработки. Здесь я освоил JS с нуля, научился работать с NodeJS, Express, React, Redux и другими технологиями. Но самое ценное - навыки работы в команде."
+    },
+    {
+      "name": "Филипп Лосс",
+      "title": "Разработчик в КБ Стрелка",
+      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/avatars/avatar-fill.jpg",
+      "profiles": [  
+        {
+          "type": "github",
+          "link": "https://github.com/filipploss"
+        },
+        {
+          "type": "moikrug",
+          "link": "https://moikrug.ru/filipploss"
+        }
+      ],
+      "video": "",
+      "text": "Эта школа выгодно отличается от всех других на рынке. Очень интенсивная программа с 90% практики и 10% теории, профессиональные и отзывчивые преподаватели, комфортные классы, йога 2 раза в неделю, регулярно приглашаются интересные спикеры из разных IT-компаний. И самое главное - знания, которые позволят найти интересную работу"
+    },
+    {
+      "name": "Андрей Лубочников",
+      "title": "Разработчик в Admitad",
+      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/avatars/avatar-andrew.jpg",
+      "profiles": [  
+        {
+          "type": "github",
+          "link": "https://github.com/Andr-07"
+        }
+      ],
+      "video": "",
+      "text": "Отличная школа. На протяжении 10 недель я реализовал несколько крутых проектов, в том числе проект с реальным заказчиком. Это уникальный опыт, который открыл для меня индустрию профессиональной веб-разработки."
+    },
+    {
+      "name": "Антон Панферов",
+      "title": "Разработчик в ",
+      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/avatars/avatar-anton.jpg",
+      "profiles": [  
+        {
+          "type": "github",
+          "link": "https://github.com/panferovDev "
+        },
+        {
+          "type": "moikrug",
+          "link": "https://moikrug.ru/panferovdev"
+        }
+      ],
+      "video": "",
+      "text": "JavaScript, MongoDB, Node.js, Express, React, Redux хотите знать что это такое и почему это востребовано? Тогда вам сюда! Это будут не простые 10 недель, но за это время вы получите опыт сопоставимый с первой работой в разработке. Кроме преподавателей вам будут помогать одногруппники и выпускники буткемпа. Многие выпустившиеся до моей группы нашли работу в течение нескольких недель после окончания"
     }
   ],
   "team": [
