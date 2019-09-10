@@ -273,14 +273,14 @@
         }
       ]
     }
-  ],
+  ], 
   "gallery": [
-    "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/campus/1.JPG",
-    "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/campus/2.JPG",
-    "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/campus/3.JPG",
-    "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/campus/4.JPG",
-    "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/campus/5.JPG",
-    "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/campus/6.JPG"
+    "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/campus/01.JPG",
+    "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/campus/02.JPG",
+    "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/campus/03.JPG",
+    "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/campus/04.JPG",
+    "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/campus/05.JPG",
+    "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/campus/06.JPG"
   ],
   "tools": [
     {
