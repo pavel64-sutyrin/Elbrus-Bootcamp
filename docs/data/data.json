@@ -35,7 +35,7 @@
     }
   ],
   "testimonials": [
-    
+
     {
       "name": "Алимова Катрин",
       "title": "Разработчик в ВТБ",
@@ -126,7 +126,7 @@
       "name": "Михаил Левин",
       "title": "Разработчик в LAtoken",
       "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/avatars/avatar-misha.jpg",
-      "profiles": [  
+      "profiles": [
         {
           "type": "github",
           "link": "https://github.com/le0n229"
@@ -139,7 +139,7 @@
       "name": "Филипп Лосс",
       "title": "Разработчик в КБ Стрелка",
       "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/avatars/avatar-fill.jpg",
-      "profiles": [  
+      "profiles": [
         {
           "type": "github",
           "link": "https://github.com/filipploss"
@@ -156,7 +156,7 @@
       "name": "Андрей Лубочников",
       "title": "Разработчик в Admitad",
       "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/avatars/avatar-andrew.jpg",
-      "profiles": [  
+      "profiles": [
         {
           "type": "github",
           "link": "https://github.com/Andr-07"
@@ -169,7 +169,7 @@
       "name": "Антон Панферов",
       "title": "Разработчик в Сбербанк",
       "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/avatars/avatar-anton.jpg",
-      "profiles": [  
+      "profiles": [
         {
           "type": "github",
           "link": "https://github.com/panferovDev "
@@ -262,7 +262,7 @@
         }
       ]
     }
-  ], 
+  ],
   "gallery": [
     "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/campus/01.JPG",
     "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/campus/02.JPG",
@@ -354,8 +354,8 @@
     }
   ],
   "groups": [
-   
-   
+
+
     {
       "date": "2019-10-14",
       "full": true
@@ -392,5 +392,18 @@
     "after": "198 000₽",
     "date": "2019-11-01"
   },
-  "copyright": "© Elbrus Coding Bootcamp. 2019 All rights reserved."
+  "footer": {
+    "offer": "Договор-Оферта",
+    "policy": "Политика конфиденциальности",
+    "subscribeTitle": "Будьте в курсе!",
+    "subscribe": "Подписаться",
+    "success": "Спасибо!",
+    "copyright": "© Elbrus Coding Bootcamp. 2019 All rights reserved."
+  },
+  "buttons": {
+    "knowMore": "Узнать больше",
+    "start": "Начать обучение",
+    "program": "Программа обучения",
+    "join": "Записаться"
+  }
 }
