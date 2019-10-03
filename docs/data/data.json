@@ -252,6 +252,17 @@
       ]
     },
     {
+      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/team/Masha.jpg",
+      "title": "Карьерный коуч",
+      "name": "Мария Белявская ",
+      "contacts": [
+        {
+          "type": "linkedin",
+          "value": "https://www.linkedin.com/in/belyavskayamariya/"
+        }
+      ]
+    },
+    {
       "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/team/ann.jpg",
       "title": "Помощник преподавателя",
       "name": "Анна Гладких",
