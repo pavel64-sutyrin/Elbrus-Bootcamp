@@ -383,13 +383,10 @@
   "groups": [
 
 
-    {
-      "date": "2019-10-14",
-      "full": true
-    },
+    
     {
       "date": "2019-11-11",
-      "full": false
+      "full": true
     },
     {
       "date": "2020-01-13",
