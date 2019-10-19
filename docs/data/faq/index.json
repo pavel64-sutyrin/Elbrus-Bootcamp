@@ -22,11 +22,6 @@
             "content": "Web разработка сайтов и приложений с нуля, мы ответим на часто задаваемые вопросы веб-разработчиков на JavaScript, HTML5, CSS3. Где начать обучаться разработке сайтов и приложений по новым стандартам JavaScript, HTML5, CSS3. Сколько стоит обучение для frontend или backend разработчика, в школе программирования Elbrus."
         },
         {
-            "property": "og:image",
-            "name": "",
-            "content": "images/logo.png"
-        },
-        {
             "property": "og:type",
             "name": "",
             "content": "website"
