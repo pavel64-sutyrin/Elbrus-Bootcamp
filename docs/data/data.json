@@ -213,6 +213,18 @@
       ]
     },
     {
+      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/team/mihey.jpg",
+      "title": "Преподаватель",
+      "name": "Михаил Иванов",
+      "contacts": []
+    },
+    {
+      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/team/evgeniy.jpg",
+      "title": "Преподаватель",
+      "name": "Евгений Маслович",
+      "contacts": []
+    },
+    {
       "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/team/ilona.jpg",
       "title": "BDM",
       "name": "Илона Гольман",
@@ -224,28 +236,6 @@
         {
           "type": "link",
           "value": "mailto:ig@elbrusboot.camp"
-        }
-      ]
-    },
-    {
-      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/team/sharif.png",
-      "title": "Методист",
-      "name": "Sherif Abushadi",
-      "contacts": [
-        {
-          "type": "link",
-          "value": "https://www.sherifabushadi.com/#home"
-        }
-      ]
-    },
-    {
-      "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/team/Sergei.jpg",
-      "title": "Преподаватель",
-      "name": "Сергей Купцов",
-      "contacts": [
-        {
-          "type": "medium",
-          "value": "https://medium.com/@sergeykuptsov"
         }
       ]
     },
