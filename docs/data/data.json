@@ -242,6 +242,10 @@
         {
           "type": "moikrug",
           "value": "https://moikrug.ru/kayday"
+        },
+        {
+          "type": "github",
+          "value": "https://github.com/KaDaniil"
         }
       ]
     },
@@ -252,7 +256,7 @@
       "contacts": [
         {
           "type": "github",
-          "link": "https://github.com/midevelop"
+          "value": "https://github.com/midevelop"
         }
       ]
     },
@@ -263,7 +267,7 @@
       "contacts": [
         {
           "type": "github",
-          "link": "https://github.com/ehpc"
+          "value": "https://github.com/ehpc"
         }
       ]
     },
