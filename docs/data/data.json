@@ -88,7 +88,7 @@
     },
     {
       "name": "Даниил Хизов",
-      "title": "Разработчик в Альфа-Банк",
+      "title": "Разработчик в Mail.ru",
       "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/avatars/avatar-danya.jpg",
       "profiles": [
         {
@@ -147,7 +147,6 @@
           "link": "https://moikrug.ru/filipploss"
         }
       ],
-
       "text": "Эта школа выгодно отличается от всех других на рынке. Очень интенсивная программа с 90% практики и 10% теории, профессиональные и отзывчивые преподаватели, комфортные классы, йога 2 раза в неделю, регулярно приглашаются интересные спикеры из разных IT-компаний. И самое главное - знания, которые позволят найти интересную работу"
     },
     {
@@ -160,7 +159,6 @@
           "link": "https://github.com/Andr-07"
         }
       ],
-
       "text": "Отличная школа. На протяжении 11 недель я реализовал несколько крутых проектов, в том числе проект с реальным заказчиком. Это уникальный опыт, который открыл для меня индустрию профессиональной веб-разработки."
     },
     {
@@ -177,7 +175,6 @@
           "link": "https://moikrug.ru/panferovdev"
         }
       ],
-
       "text": "JavaScript, MongoDB, Node.js, Express, React, Redux хотите знать что это такое и почему это востребовано? Тогда вам сюда! Это будут не простые 11 недель, но за это время вы получите опыт сопоставимый с первой работой в разработке. Кроме преподавателей вам будут помогать одногруппники и выпускники буткемпа. Многие выпустившиеся до моей группы нашли работу в течение нескольких недель после окончания"
     },
     {
@@ -252,13 +249,23 @@
       "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/team/mihey.jpg",
       "title": "Преподаватель",
       "name": "Михаил Иванов",
-      "contacts": []
+      "contacts": [
+        {
+          "type": "github",
+          "link": "https://github.com/midevelop"
+        }
+      ]
     },
     {
       "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/team/evgeniy.jpg",
       "title": "Преподаватель",
       "name": "Евгений Маслович",
-      "contacts": []
+      "contacts": [
+        {
+          "type": "github",
+          "link": "https://github.com/ehpc"
+        }
+      ]
     },
     {
       "photo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/team/ilona.jpg",
