@@ -419,25 +419,53 @@
       "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/mm/youtube.svg"
     }
   ],
-  "groups": [
-    {
-      "date": "2019-12-16",
-      "full": false
-    },
-    {
-      "date": "2020-01-20",
-      "full": false
-    },
-    {
-      "date": "2020-03-02",
-      "full": false
-    }
-  ],
+  "groups": {
+    "moscow": [
+      {
+        "date": "2019-12-16",
+        "full": false
+      },
+      {
+        "date": "2020-01-20",
+        "full": false
+      },
+      {
+        "date": "2020-03-02",
+        "full": false
+      }
+    ],
+    "spb": [
+      {
+        "date": "2020-01-20",
+        "full": false
+      }
+    ]
+  },
   "events": [
     {
-      "date": "2022-01-01",
+      "date": "2019-12-03T18:00:00+0300",
       "title": "День открытых дверей",
-      "link": ""
+      "link": "https://elbrus-coding-bootcamp.timepad.ru/event/1123741/"
+    },
+    {
+      "date": "2019-12-08T13:00:00+0300",
+      "title": "Пробный урок по JavaScript",
+      "link": "https://elbrus-coding-bootcamp.timepad.ru/event/1130770/"
+    },
+    {
+      "date": "2019-12-10T18:00:00+0300",
+      "title": "День открытых дверей",
+      "link": "https://elbrus-coding-bootcamp.timepad.ru/event/1130771/"
+    },
+    {
+      "date": "2019-12-15T13:00:00+0300",
+      "title": "Пробный урок по JavaScript",
+      "link": "https://elbrus-coding-bootcamp.timepad.ru/event/1134081/"
+    },
+    {
+      "date": "2019-12-20T17:00:00+0300",
+      "title": "Demo day",
+      "link": "https://elbrus-coding-bootcamp.timepad.ru/event/1117273/"
     }
   ],
   "contacts": {
