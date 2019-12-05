@@ -493,9 +493,10 @@
     "copyright": "© Elbrus Coding Bootcamp. 2019 All rights reserved."
   },
   "buttons": {
-    "knowMore": "Узнать больше",
+    "knowMore": "О школе",
     "start": "Начать обучение",
-    "program": "Программа обучения",
-    "join": "Записаться"
+    "program": "Программа",
+    "faq": "Частые вопросы",
+    "join": "Оставить заявку"
   }
 }
