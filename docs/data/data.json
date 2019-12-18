@@ -481,7 +481,8 @@
   },
   "price": {
     "before": "210 000₽",
-    "after": ""
+    "after": "",
+    "date": ""
   },
   "footer": {
     "offer": "Договор-Оферта",
