@@ -480,7 +480,8 @@
     "offer": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/agreement_elbruscodingbootcamp.pdf"
   },
   "price": {
-    "before": "210 000₽"
+    "before": "210 000₽",
+    "after": ""
   },
   "footer": {
     "offer": "Договор-Оферта",
