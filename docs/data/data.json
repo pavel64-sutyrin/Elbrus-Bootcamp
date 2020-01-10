@@ -476,9 +476,16 @@
     "offer": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/agreement_elbruscodingbootcamp.pdf"
   },
   "price": {
-    "before": "210 000₽",
-    "after": "",
-    "date": "2020-03-01"
+    "moscow": {
+      "before": "210 000₽",
+      "after": "",
+      "date": "2020-03-01"
+    },
+    "spb": {
+      "before": "200 000₽",
+      "after": "",
+      "date": "2020-03-01"
+    }
   },
   "footer": {
     "offer": "Договор-Оферта",
