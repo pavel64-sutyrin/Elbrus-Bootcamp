@@ -419,6 +419,23 @@
       "logo": "https://elbrus-bootcamp.github.io/Elbrus-Bootcamp/images/mm/youtube.svg"
     }
   ],
+  "groupsNew": [
+    {
+      "online": "2020-01-20",
+      "start": "2020-02-10",
+      "end": "2020-04-10"
+    },
+    {
+      "online": "2020-02-24",
+      "start": "2020-03-16",
+      "end": "2020-05-22"
+    },
+    {
+      "online": "2020-03-23",
+      "start": "2020-04-13",
+      "end": "2020-06-10"
+    }
+  ],
   "groups": {
     "moscow": [
       {
